@@ -48,6 +48,9 @@ The goal of this project is to develop a reliable system to classify videos as e
 
 **Overall Accuracy**: 0.81
 
+![Training and Validation plots](https://github.com/user-attachments/assets/7847cdc3-bffd-40a4-b5b9-786d963d33ec)
+
+
 ---
 
 ## Streamlit Interface
